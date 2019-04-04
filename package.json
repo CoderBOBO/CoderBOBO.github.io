@@ -6,19 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DIYgod/Resume.git"
-  },
   "keywords": [
     "resume"
   ],
-  "author": "DIYgod",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
-  },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
